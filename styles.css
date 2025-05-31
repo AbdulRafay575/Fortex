@@ -1,0 +1,447 @@
+.HOME {
+  background-color: #323132;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.HOME .div {
+  background-color: #323132;
+  /* overflow: hidden; */
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+
+
+.HOME .group {
+  position: absolute;
+  width: 1763px;
+  height: 1763px;
+  top: 1678px;
+  left: 0;
+  opacity: 0.6;
+  background-image: url(https://c.animaapp.com/mb98hdutdoY4xp/img/vector.svg);
+  background-size: 100% 100%;
+}
+
+.HOME .asset {
+  position: absolute;
+  width: 1728px;
+  height: 531px;
+  top: 995px;
+  left: 12px;
+}
+
+.HOME .rectangle {
+  position: absolute;
+  width: 1728px;
+  height: 535px;
+  top: 991px;
+  left: 12px;
+  background: linear-gradient(
+    180deg,
+    rgba(50, 49, 50, 0) 0%,
+    rgba(50, 49, 50, 1) 100%
+  );
+}
+
+.HOME .portrait-handsome {
+  position: absolute;
+  width: 866px;
+  height: 995px;
+  top: 0;
+  left: 12px;
+  background-image: url(https://c.animaapp.com/mb98hdutdoY4xp/img/image-2.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.HOME .element {
+  position: absolute;
+  width: 862px;
+  height: 995px;
+  top: 0;
+  left: 878px;
+  background-image: url(https://c.animaapp.com/mb98hdutdoY4xp/img/417686827-434516335590445-7710793088293992734-n--1--2-2.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.HOME .individual {
+  position: absolute;
+  top: 463px;
+  left: 1106px;
+  text-shadow: 0px 0px 50px #00000099;
+  font-family: "Unbounded", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 54px;
+  letter-spacing: 4.32px;
+  line-height: normal;
+}
+
+.HOME .corporate {
+  position: absolute;
+  top: 463px;
+  left: 229px;
+  text-shadow: 0px 0px 50px #00000099;
+  font-family: "Unbounded", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 54px;
+  letter-spacing: 4.32px;
+  line-height: normal;
+}
+
+.HOME .group-2 {
+  position: absolute;
+  width: 893px;
+  height: 458px;
+  top: 1386px;
+  left: 431px;
+}
+
+.HOME .text-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Unbounded", Helvetica;
+  font-weight: 200;
+  color: #ffffff;
+  font-size: 97.2px;
+  letter-spacing: 7.78px;
+  line-height: 97.2px;
+}
+
+.HOME .dress-shirts {
+  position: absolute;
+  top: 263px;
+  left: 450px;
+  font-family: "Unbounded", Helvetica;
+  font-weight: 200;
+  color: #01a9b6;
+  font-size: 97.2px;
+  text-align: right;
+  letter-spacing: 7.78px;
+  line-height: 97.2px;
+}
+
+.HOME .overlap-group-wrapper {
+  position: absolute;
+  width: 1247px;
+  height: 443px;
+  top: 1928px;
+  left: 246px;
+}
+
+.HOME .overlap-group {
+  position: relative;
+  width: 1243px;
+  height: 443px;
+}
+
+.HOME .fortex-is-a-private {
+  position: absolute;
+  width: 1163px;
+  top: 111px;
+  left: 40px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 1.92px;
+  line-height: 30px;
+}
+
+.HOME .rectangle-2 {
+  position: absolute;
+  width: 1243px;
+  height: 406px;
+  top: 37px;
+  left: 0;
+  border-radius: 36px;
+  border: 2px dashed;
+  border-color: #01a9b6;
+}
+
+.HOME .rectangle-3 {
+  position: absolute;
+  width: 302px;
+  height: 72px;
+  top: 0;
+  left: 479px;
+  background-color: #262626;
+}
+
+.HOME .text-wrapper-2 {
+  position: absolute;
+  top: 9px;
+  left: 505px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 3.84px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.HOME .text-wrapper-3 {
+  position: absolute;
+  top: 2530px;
+  left: 526px;
+  font-family: "Unbounded", Helvetica;
+  font-weight: 200;
+  color: #01a9b6;
+  font-size: 97.2px;
+  letter-spacing: 7.78px;
+  line-height: 97.2px;
+  white-space: nowrap;
+}
+
+.HOME .asset-x {
+  position: absolute;
+  width: 1202px;
+  height: 825px;
+  top: 2717px;
+  left: 267px;
+  background-image: url(https://c.animaapp.com/mb98hdutdoY4xp/img/asset-4-3x-2-2.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.HOME .clients {
+  position: absolute;
+  top: 3688px;
+  left: 599px;
+  font-family: "Unbounded", Helvetica;
+  font-weight: 200;
+  color: #01a9b6;
+  font-size: 97.2px;
+  letter-spacing: 7.78px;
+  line-height: 97.2px;
+  white-space: nowrap;
+}
+
+.HOME .text-wrapper-4 {
+  position: absolute;
+  top: 4966px;
+  left: 288px;
+  font-family: "Unbounded", Helvetica;
+  font-weight: 200;
+  color: #01a9b6;
+  font-size: 97.2px;
+  letter-spacing: 7.78px;
+  line-height: 97.2px;
+  white-space: nowrap;
+}
+
+.HOME .overlap-wrapper {
+  position: absolute;
+  width: 1728px;
+  height: 670px;
+  top: 4211px;
+  left: 0;
+}
+
+.HOME .overlap-2 {
+  position: relative;
+  height: 670px;
+}
+
+.HOME .rectangle-wrapper {
+  position: absolute;
+  width: 1728px;
+  height: 670px;
+  top: 0;
+  left: 0;
+  background-image: url(https://c.animaapp.com/mb98hdutdoY4xp/img/asset-5-3x-1-2.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.HOME .rectangle-4 {
+  position: relative;
+  width: 670px;
+  height: 942px;
+  top: -136px;
+  left: 136px;
+  transform: rotate(90deg);
+  background: linear-gradient(
+    180deg,
+    rgba(50, 49, 50, 0) 0%,
+    rgba(50, 49, 50, 1) 100%
+  );
+}
+
+.HOME .group-3 {
+  position: absolute;
+  width: 738px;
+  height: 273px;
+  top: 198px;
+  left: 139px;
+}
+
+.HOME .we-have-unlimited {
+  position: absolute;
+  width: 734px;
+  top: 228px;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 1.92px;
+  line-height: 30px;
+}
+
+.HOME .div-wrapper {
+  position: absolute;
+  width: 1728px;
+  height: 587px;
+  top: 5153px;
+  left: 0;
+}
+
+.HOME .overlap-3 {
+  position: relative;
+  height: 587px;
+}
+
+.HOME .ACADEMY {
+  position: absolute;
+  width: 1728px;
+  height: 540px;
+  top: 0;
+  left: 0;
+  background-image: url(https://c.animaapp.com/mb98hdutdoY4xp/img/academy-2-2.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.HOME .group-4 {
+  position: absolute;
+  width: 1203px;
+  height: 204px;
+  top: 158px;
+  left: 265px;
+}
+
+.HOME .STUDY-THE-ART-OF {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 57.6px;
+  letter-spacing: 4.61px;
+  line-height: normal;
+}
+
+.HOME .SCHOLARSHIPS {
+  position: absolute;
+  top: 0;
+  left: 733px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 57.6px;
+  letter-spacing: 4.61px;
+  line-height: normal;
+}
+
+.HOME .group-5 {
+  position: absolute;
+  width: 375px;
+  height: 94px;
+  top: 493px;
+  left: 677px;
+  background-color: #222222;
+  border-radius: 47px;
+}
+
+.HOME .text-wrapper-5 {
+  position: absolute;
+  top: 22px;
+  left: 40px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #01a9b6;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 6.00px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.HOME .group-6 {
+  position: absolute;
+  width: 1241px;
+  height: 260px;
+  top: 3850px;
+  left: 244px;
+}
+
+.HOME .jaffa-champion-bushi {
+  position: absolute;
+  top: -1px;
+  left: 0;
+  font-family: "Unbounded", Helvetica;
+  font-weight: 200;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 1.20px;
+  line-height: 26px;
+}
+
+.HOME .master-protection {
+  position: absolute;
+  top: -1px;
+  left: 260px;
+  font-family: "Unbounded", Helvetica;
+  font-weight: 200;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 1.20px;
+  line-height: 26px;
+}
+
+.HOME .euro-farm-fzom-tcc {
+  position: absolute;
+  top: -1px;
+  left: 539px;
+  font-family: "Unbounded", Helvetica;
+  font-weight: 200;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 1.20px;
+  line-height: 26px;
+}
+
+.HOME .elektrometal-opera-i {
+  position: absolute;
+  top: -1px;
+  left: 783px;
+  font-family: "Unbounded", Helvetica;
+  font-weight: 200;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 1.20px;
+  line-height: 26px;
+}
+
+.HOME .sport-life-taxi {
+  position: absolute;
+  top: -1px;
+  left: 1047px;
+  font-family: "Unbounded", Helvetica;
+  font-weight: 200;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 1.20px;
+  line-height: 26px;
+}
